@@ -1,0 +1,25 @@
+generated: '2026-07-20'
+method: searched
+probe: true
+source: https://montopay.com/compliance-and-security-page/
+url: https://montopay.com/compliance-and-security-page/
+certifications:
+- SOC 2 Type II
+compliance_context:
+- GDPR
+security_measures:
+- SOC 2 Type II audited three consecutive years
+- Encryption policies
+- Periodical penetration tests and cloud scans
+- Data classification protocols
+- Secure development lifecycle (SDLC)
+- Business continuity and resilience planning
+- Data Protection Agreement (DPA) available on request
+- No Customer Data processed with any AI/LLM/GenAI model
+evidence:
+- source: https://montopay.com/compliance-and-security-page/
+  keywords:
+  - soc 2
+  - gdpr
+  - penetration test
+  - sdlc
