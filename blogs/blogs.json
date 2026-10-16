@@ -1,0 +1,14 @@
+{
+  "repo": "monto",
+  "feeds": [
+    {
+      "source": "https://montopay.com/feed/",
+      "feed_url": "https://montopay.com/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "feed"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-10-10T13:15:00Z"
+}
